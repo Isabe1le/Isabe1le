@@ -61,6 +61,8 @@
   <img src="https://shields.io/badge/JavaScript-2/5-5d96f0?logo=javascript&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
 </p>
 
+<!--START_SECTION:activity-->
+
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=Isabe1le&ring_color=5d96f0">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabe1le&layout=compact&hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
