@@ -61,14 +61,6 @@
   <img src="https://shields.io/badge/JavaScript-2/5-5d96f0?logo=javascript&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
 </p>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/Platane/snk/issues/75#issuecomment-1636774110) in [Platane/snk](https://github.com/Platane/snk)
-2. 🗣 Commented on [#74](https://github.com/Platane/snk/issues/74#issuecomment-1636773886) in [Platane/snk](https://github.com/Platane/snk)
-3. 🎉 Merged PR [#1](https://github.com/Isabe1le/Isabe1le/pull/1) in [Isabe1le/Isabe1le](https://github.com/Isabe1le/Isabe1le)
-4. 💪 Opened PR [#1](https://github.com/Isabe1le/Isabe1le/pull/1) in [Isabe1le/Isabe1le](https://github.com/Isabe1le/Isabe1le)
-5. 🎉 Merged PR [#5](https://github.com/Isabe1le/WavelinkDisnake/pull/5) in [Isabe1le/WavelinkDisnake](https://github.com/Isabe1le/WavelinkDisnake)
-<!--END_SECTION:activity-->
-
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true&username=Isabe1le&ring_color=5d96f0">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabe1le&layout=compact&hide_border=true&title_color=ffffff&icon_color=5d96f0&text_color=ffffff&bg_color=0d1117&show_icons=true&count_private=true">
