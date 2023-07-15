@@ -18,6 +18,8 @@
     <img align="center" src="https://i.imgur.com/kplVAKd.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/element" target="_blank">
     <img align="center" src="https://i.imgur.com/KCXJ4yk.png" height="50" width="50" />
+  </a> <a href="https://hdsc.rs" target="_blank">
+    <img align="center" src="https://i.imgur.com/IkOfOTa.png" height="50" width="50" />
   </a> <a href="https://crbn.cfd" target="_blank">
     <img align="center" src="https://i.imgur.com/aW3uyXU.png" height="50" width="50" />
   </a> <a href="https://uwu.gal/r/weezer/github" target="_blank">
