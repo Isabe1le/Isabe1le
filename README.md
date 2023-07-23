@@ -47,7 +47,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://shields.io/badge/Python-5/5-5d96f0?logo=python&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/Figma-3/5-5d96f0?logo=figma&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/Flask-5/5-5d96f0?logo=flask&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/FastAPI-5/5-5d96f0?logo=fastapi&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/HTML-3/5-5d96f0?logo=html5&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
