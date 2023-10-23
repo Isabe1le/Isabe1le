@@ -1,7 +1,8 @@
-<img draggable="false" src="https://i.imgur.com/mdG0d2F.png"></a>
+<img draggable="false" src="https://i.imgur.com/5m1wJTH.png"></a>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=scrumpyy&label=Profile%20views&color=5d96f0&style=pixel" alt="scrumpyy"/>
-  <a href="https://uwu.gal/r/discord" target="_blank">
+  <br>
+  <a href="https://izzy.institute" target="_blank">
     <img draggable="false" style="width:119xp;height:20xp;" src="https://discord.com/api/guilds/721528373377105970/embed.png">
   </a>
 </p>
@@ -42,25 +43,27 @@
     <img src="https://shields.io/badge/YouTube-Subscribe-5d96f0?logo=youtube&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   </a>
   <a href="https://uwu.gal/r/discord"  target="_blank">
-    <img src="https://shields.io/badge/Discord-Join_and_DM_me!-5d96f0?logo=discord&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+    <img src="https://shields.io/badge/Discord-Join-5d96f0?logo=discord&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  </a>
+  <a href="https://social.gal/@isabelle"  target="_blank">
+    <img src="https://shields.io/badge/SocialGal-Follow-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://shields.io/badge/Python-5/5-5d96f0?logo=python&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/Flask-5/5-5d96f0?logo=flask&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/FastAPI-5/5-5d96f0?logo=fastapi&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/HTML-3/5-5d96f0?logo=html5&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/Python-5/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/Flask-5/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/FastAPI-5/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/HTML-5/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/Java-3/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <br>
-  <img src="https://shields.io/badge/MySQL-4/5-5d96f0?logo=mysql&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/Nginx-3/5-5d96f0?logo=nginx&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/OpenCV-3/5-5d96f0?logo=opencv&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/Jinja-5/5-5d96f0?logo=jinja&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/JavaScript-3/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/MySQL-4/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/Nginx-4/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/Jinja-5/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/CSS-4/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <br>
-  <img src="https://shields.io/badge/SQLite-5/5-5d96f0?logo=sqlite&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/Java-3/5-5d96f0?logo=java&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/JavaScript-2/5-5d96f0?logo=javascript&style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
 </p>
 
 <p align="center">
