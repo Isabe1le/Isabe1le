@@ -32,6 +32,8 @@
     <img align="center" src="https://i.imgur.com/rMuFtlH.png" height="50" width="50" />
   </a> <a href="https://github.com/Isabe1le/pygeolocate" target="_blank">
     <img align="center" src="https://i.imgur.com/g3Euo2M.png" height="50" width="50" />
+  </a> <a href="https://social.gal" target="_blank">
+    <img align="center" src="https://social.gal/static/images/icon-fox.png" height="50" width="50" />
   </a>
 </p>
 <h3 align="center">Connect with me:</h3>
