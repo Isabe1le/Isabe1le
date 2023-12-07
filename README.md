@@ -58,7 +58,7 @@
   <img src="https://shields.io/badge/Flask-5/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/FastAPI-5/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/HTML-5/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
-  <img src="https://shields.io/badge/Java-3/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
+  <img src="https://shields.io/badge/Java-4/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <br>
   <img src="https://shields.io/badge/JavaScript-3/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
   <img src="https://shields.io/badge/MySQL-4/5-5d96f0?style=for-the-badge&labelColor=ffffff&logoColor=5d96f0">
