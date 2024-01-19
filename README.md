@@ -53,7 +53,7 @@
 
 <h3>Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,html,css,java,js,mysql,nginx,jinja">
+  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,html,css,java,js,mysql,nginx,jinja,cloudflare">
 </p>
 
 <p>
