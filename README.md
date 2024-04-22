@@ -14,7 +14,7 @@
    <table>
       <tr>
           <td><img align="center" src="https://www.lunaphoebe.com/static/images/flagship-project/scrumpbot-icon-256x256.png" height="50" width="50"/></td>
-          <td><a href="https://lunaphoebe.com/projects/scrumpbot" target="_blank">ScrumpBot</a></td>
+          <td><a href="https://lunaphoebe.com/projects/scrumpbot" target="_blank">Scrump</a></td>
           <td><img align="center" src="https://www.lunaphoebe.com/static/images/flagship-project/element-icon-256x256.png" height="50" width="50"/></td>
           <td><a href="https://lunaphoebe.com/projects/element" target="_blank">Element Antiraid</a></td>
           <td><img align="center" src="https://www.lunaphoebe.com/static/images/flagship-project/headscratchers-icon-256x256.png" height="50" width="50"/></td>
@@ -27,8 +27,8 @@
           <td><a href="https://lunaphoebe.com/projects/socialgal" target="_blank">SocialGal</a></td>
           <td><img align="center" src="https://www.lunaphoebe.com/static/images/flagship-project/discord-me-icon-256x256.png" height="50" width="50"/></td>
           <td><a href="https://lunaphoebe.com/projects/discord-me" target="_blank">Discord.Me</a></td>
-          <td><img align="center" src="https://www.lunaphoebe.com/static/images/flagship-project/ticketer-icon-256x256.png" height="50" width="50"/></td>
-          <td><a href="https://lunaphoebe.com/projects/ticketer" target="_blank">Ticketer</a></td>
+          <td><img align="center" src="https://www.lunaphoebe.com/static/images/flagship-project/maki-icon-256x256.png" height="50" width="50"/></td>
+          <td><a href="https://lunaphoebe.com/projects/maki" target="_blank">Maki</a></td>
           <td><img align="center" src="https://www.lunaphoebe.com/static/images/flagship-project/feedback-utils-icon-256x256.png" height="50" width="50"/></td>
           <td><a href="https://lunaphoebe.com/projects/feedback-utils" target="_blank">Feedback Utils</a></td>
       </tr>
